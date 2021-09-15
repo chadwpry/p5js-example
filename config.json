@@ -1,0 +1,13 @@
+{
+	"project": {
+		"author": "Observable",
+		"name": "Crop Circles",
+		"type": "p5js"
+	},
+	"experiment": {
+		"runs": 5,
+		"height": 1000,
+		"width": 1000
+	}
+	"version": "0.1.0"
+}
