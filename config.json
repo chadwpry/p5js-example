@@ -2,7 +2,7 @@
 	"project": {
 		"author": "Observable",
 		"email": "observable@example.com",
-		"name": "Crop Circles",
+		"title": "Crop Circles",
 		"type": "p5js"
 	},
 	"experiment": {
