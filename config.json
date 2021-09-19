@@ -6,7 +6,7 @@
 		"type": "p5js"
 	},
 	"experiment": {
-		"runs": 5,
+		"runs": 10,
 		"height": 1000,
 		"width": 1000
 	}
